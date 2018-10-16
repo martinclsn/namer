@@ -18,12 +18,8 @@ hand
 heap
 home
 lack
-leaf
 line
-mind
 nest
-note
-pen
 piece
 pine
 row
@@ -42,6 +38,7 @@ thing
 time
 tip
 tone
+toy
 voice
 way
 wall
