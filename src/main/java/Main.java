@@ -12,10 +12,13 @@ public class Main {
         List<String> part1List = Resources.readLines(new File("part1.txt").toURI().toURL(), Charsets.UTF_8);
         List<String> part2List = Resources.readLines(new File("part2.txt").toURI().toURL(), Charsets.UTF_8);
 
-        for (int i = 0; i < 200; i++) {
+        for (int i = 0; i < 1000; i++) {
             String a = getRandom(part1List, "");
             String b = getRandom(part2List, "");
             log(a + " " + b);
+            if(i % 10 == 0) {
+                System.out.println("");
+            }
         }
 
     }
@@ -30,6 +33,7 @@ public class Main {
     }
 
     private static void log(String string) {
-        System.out.println(string);
+        String paddedString = String.format("%1$-" + 20 + "s", string);
+        System.out.print(paddedString);
     }
 }
