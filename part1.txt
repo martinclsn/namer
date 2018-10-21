@@ -3,6 +3,7 @@ barking
 blank
 cawing
 closed
+constant
 croaking
 deep
 dim
@@ -12,6 +13,7 @@ faraway
 feeble
 frail
 from
+former
 gazing
 gone
 grimy
@@ -20,6 +22,7 @@ hidden
 ill
 infirm
 lanky
+late
 leaf
 less
 living
@@ -36,6 +39,7 @@ pale
 place
 raw
 retired
+rusty
 sick
 scragged
 shy
@@ -46,5 +50,7 @@ thick
 torn
 twin
 weak
+whirl
+wiggly
 worn
 

@@ -12,11 +12,11 @@ public class Main {
         List<String> part1List = Resources.readLines(new File("part1.txt").toURI().toURL(), Charsets.UTF_8);
         List<String> part2List = Resources.readLines(new File("part2.txt").toURI().toURL(), Charsets.UTF_8);
 
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 1; i <= 1000; i++) {
             String a = getRandom(part1List, "");
             String b = getRandom(part2List, "");
             log(a + " " + b);
-            if(i % 10 == 0) {
+            if(i % 5 == 0) {
                 System.out.println("");
             }
         }
