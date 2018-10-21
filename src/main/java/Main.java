@@ -33,7 +33,7 @@ public class Main {
     }
 
     private static void log(String string) {
-        String paddedString = String.format("%1$-" + 20 + "s", string);
+        String paddedString = String.format("%1$-" + 25 + "s", string);
         System.out.print(paddedString);
     }
 }
