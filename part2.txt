@@ -1,8 +1,10 @@
 base
 bray
 cage
+case
 cells
 child
+clade
 clay
 crust
 den
@@ -20,6 +22,7 @@ ground
 hand
 heap
 home
+instar
 lack
 line
 machine
@@ -32,6 +35,7 @@ row
 room
 route
 rust
+sample
 scale
 scope
 screak

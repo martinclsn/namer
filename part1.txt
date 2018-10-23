@@ -22,6 +22,7 @@ hidden
 ill
 infirm
 lanky
+last
 late
 leaf
 less
